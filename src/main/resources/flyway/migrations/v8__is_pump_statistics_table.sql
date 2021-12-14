@@ -1,0 +1,1 @@
+alter table statistics_process add column if not exists is_pump bool;
